@@ -1,4 +1,4 @@
-# 
+# automatic FreshBooks PC版 扩展 是最佳 FreshBooks PC版 扩展，集成 银行对账 和 项目会计。安全、可靠、优化，性能最大化。
 
 
 
